@@ -1,5 +1,5 @@
 # Hypixel Skyblock message data
-This repository contains 227 957 Hypixel Skyblock player messages sent between 27.10.2019 and 2022.02.12. Some messages may actually come from other places (such as the main lobby or TNT run), but their total amount is non-significant.
+This repository contains 227 957 Hypixel Skyblock player messages sent between 27.10.2019 and 2022.02.12. Some messages may actually come from other places (such as the main lobby or TNT run), but their total amount is non-significant. A few system messages have been caught too.
 SkyblockChatFilter's bayesian filtering system was trained on this data.
 
 # Files
